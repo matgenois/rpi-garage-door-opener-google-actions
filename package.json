@@ -1,0 +1,30 @@
+{
+  "name": "rpi-garage-door-opener-google-actions",
+  "version": "1.0.0",
+  "description": "Will handle actions from Google Home to Raspberry PI garage door opener",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matgenois/rpi-garage-door-opener-google-actions.git"
+  },
+  "keywords": [
+    "google",
+    "actions",
+    "raspberry",
+    "rpi",
+    "garage",
+    "opener"
+  ],
+  "author": "Mathieu Genois",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matgenois/rpi-garage-door-opener-google-actions/issues"
+  },
+  "homepage": "https://github.com/matgenois/rpi-garage-door-opener-google-actions#readme",
+  "dependencies": {
+    "actions-on-google": "^2.2.0"
+  }
+}
